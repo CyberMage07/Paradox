@@ -1,0 +1,7 @@
+Paradox-Simulator/
+├── paradox.c             # Main simulation engine
+├── payloads/
+│   └── fake_payload.sh   # Simulated malicious script
+├── logs/
+│   └── paradox.log       # Runtime logs
+└── .bashrc (modified)    # Simulated persistence
