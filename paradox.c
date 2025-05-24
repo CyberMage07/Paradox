@@ -100,3 +100,4 @@ int main() {
     printf("\n[✓] Paradox simulation completed. All actions logged.\n");
     return 0;
 }
+// Paradox is very dangerous. please use in controlled environment.
